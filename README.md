@@ -25,3 +25,4 @@ docker-compose logs -f
 docker-compose down
 ```
 
+The application will be available at http://localhost:4000

@@ -6,10 +6,10 @@ Simple game with Spring Boot Backend and an Angular Frontend
 
 ```
 stone-scissors-paper/
-├── backend/          # Spring Boot application
-├── frontend/         # Angular application
-├── docker/           # Docker configurations
-└── README.md         # Comprehensive documentation
+├── backend/            # Spring Boot application
+├── frontend/           # Angular application
+├── docker-compose.yml  # Docker Compose configuration
+└── README.md           # Comprehensive documentation
 ```
 
 ## How to run

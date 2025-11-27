@@ -1,6 +1,8 @@
-# Intellij project files
+# IDE project files
 .idea/
 *.iml
+.vscode
+.env
 
 # Compiled class file
 *.class

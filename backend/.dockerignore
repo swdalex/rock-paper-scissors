@@ -1,0 +1,14 @@
+.gradle
+build
+logs
+*.log
+*.tmp
+*.jar.original
+.DS_Store
+.git
+.gitignore
+README.md
+docker-compose.yml
+Dockerfile
+.idea
+.vscode

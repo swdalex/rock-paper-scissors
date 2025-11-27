@@ -14,7 +14,6 @@ export class GameService {
     private apiUrl = `${environment.apiBaseUrl}/game`;
 
     currentSessionId = signal<string | null>(null);
-    currentSessionId$ = this.currentSessionId.asReadonly();
 
     // Track if a session is being recovered to prevent infinite loops
     private isRecoveringSession = false;
